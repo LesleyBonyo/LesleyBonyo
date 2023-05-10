@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me **lesleybonyo@gmail.com**
 
 - 📄 Know about my experiences [lesleybonyo.github.io](lesleybonyo.github.io)
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6e5081d8-9188-431e-b3d1-b581ac42c193" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/lesleybonyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lesleybonyo" height="30" width="40" /></a>
