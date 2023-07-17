@@ -1,6 +1,6 @@
 <!---
 - 👋 Hi, I’m @LesleyBonyo
-- 👀 I’m interested in Machine Learning research and Data Science
+- 👀 I’m interested in Cloud Computing, DevOps and Machine Learning
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Machine Learning Research
 - 📫 How to reach me lesleybonyo@gmail.com
@@ -10,7 +10,7 @@ LesleyBonyo/LesleyBonyo is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Lesley</h1>
-<h3 align="center">I'm interested in Machine Learning research and Data Science.</h3>
+<h3 align="center">I’m interested in Cloud Computing, DevOps and Machine Learnin.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lesleybonyo&label=Profile%20views&color=0e75b6&style=flat" alt="lesleybonyo" /> </p>
 
